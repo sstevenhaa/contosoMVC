@@ -26,7 +26,33 @@ namespace ContosoConfApp.Controllers
         {
             return View();
         }
+        public IActionResult MichaelGonzalez()
+        {
+            return View();
+        }
+        public IActionResult JordanWaite()
+        {
+            return View();
+        }
+        public IActionResult StevenHa()
+        {
+            return View();
+        }
+        public IActionResult TrevonNoble()
+        {
+            return View();
+        }
+        public IActionResult RabinGhaju()
+        {
+            return View();
+        }
+        public IActionResult ClayLeimgruber()
+        {
+            return View();
+        }
         
+        
+
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()
         {

@@ -15,16 +15,40 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Visual Studio\ContosoConfApp
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Visual Studio/ContosoConfApp/Views/Home/ClayLeimgruber.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDbGF5TGVpbWdydWJlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Visual Studio/ContosoConfApp/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Visual Studio/ContosoConfApp/Views/Home/JordanWaite.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxKb3JkYW5XYWl0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Visual Studio/ContosoConfApp/Views/Home/MichaelGonzalez.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxNaWNoYWVsR29uemFsZXouY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Visual Studio/ContosoConfApp/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Visual Studio/ContosoConfApp/Views/Home/RabinGhaju.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxSYWJpbkdoYWp1LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Visual Studio/ContosoConfApp/Views/Home/Sessions.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTZXNzaW9ucy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Visual Studio/ContosoConfApp/Views/Home/StevenHa.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTdGV2ZW5IYS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Visual Studio/ContosoConfApp/Views/Home/TrevonNoble.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxUcmV2b25Ob2JsZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Visual Studio/ContosoConfApp/Views/Shared/Error.cshtml]

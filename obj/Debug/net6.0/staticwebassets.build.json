@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "zSt5/sf2QD7uvQZWFjVPrY29Owf5j47vmPLkm3U2yv8=",
+  "Hash": "DRpJZXBqXD6OtHDSDEte+CMG1j9J2hPdg4RN8qf3ACs=",
   "Source": "ContosoConfApp",
   "BasePath": "_content/ContosoConfApp",
   "Mode": "Default",
@@ -66,6 +66,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
+    },
+    {
+      "Identity": "C:\\Visual Studio\\ContosoConfApp\\wwwroot\\data\\data.json",
+      "SourceId": "ContosoConfApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Visual Studio\\ContosoConfApp\\wwwroot\\",
+      "BasePath": "_content/ContosoConfApp",
+      "RelativePath": "data/data.json",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\data\\data.json"
     },
     {
       "Identity": "C:\\Visual Studio\\ContosoConfApp\\wwwroot\\favicon.ico",

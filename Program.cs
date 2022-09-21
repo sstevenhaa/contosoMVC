@@ -21,7 +21,7 @@ namespace ContosoConfApp
 
             app.UseHttpsRedirection();
             app.UseStaticFiles();
-
+            
             app.UseRouting();
 
             app.UseAuthorization();

@@ -7,6 +7,10 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Content Remove="wwwroot\data\NewFile.txt" />
+  </ItemGroup>
+
+  <ItemGroup>
     <None Remove="Views\Home\NewFile.txt" />
   </ItemGroup>
 
