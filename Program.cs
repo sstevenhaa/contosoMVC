@@ -14,7 +14,7 @@ namespace ContosoConfApp
             {
                 var service = new SessionService();
                 service.Initialize();
-                return service;
+               return service;
             });
 
             var app = builder.Build();

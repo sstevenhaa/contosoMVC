@@ -14,15 +14,14 @@
     <th>Subject</th>
     <th>Date</th>
     <th>Seats Remaining</th>
-    <th>Details</th>    
     </tr>
     @foreach (var session in Model)
     {
         <tr>
-            <!-- <td>session.Speaker</td>
-            <td>session.Subject</td>
-            <td>session.Date</td>
-            <td>session.Seats</td> -->
+            <td>@session.speaker</td>
+            <td>@session.subject</td>
+            <td>@session.date</td>
+            <td>@session.seats</td>
         </tr>
     }
 </table>

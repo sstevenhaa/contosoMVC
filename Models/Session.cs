@@ -10,10 +10,11 @@
 
         public string details { get; set; }
 
-        //public int seats {get; set;} 
-        
-        
-        
+        public int seats {get; set;}
+        public string speaker { get; set; }
+
+
+
     }
 
     public class Sessions
