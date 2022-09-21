@@ -24,3 +24,4 @@ C:\Visual Studio\ContosoConfApp\obj\Debug\net6.0\refint\ContosoConfApp.dll
 C:\Visual Studio\ContosoConfApp\obj\Debug\net6.0\ContosoConfApp.pdb
 C:\Visual Studio\ContosoConfApp\obj\Debug\net6.0\ContosoConfApp.genruntimeconfig.cache
 C:\Visual Studio\ContosoConfApp\obj\Debug\net6.0\ref\ContosoConfApp.dll
+C:\Visual Studio\ContosoConfApp\bin\Debug\net6.0\data\data.json

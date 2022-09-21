@@ -1,16 +1,21 @@
 ﻿using ContosoConfApp.Models;
 using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
+using ContosoConfApp.Services;
 
 namespace ContosoConfApp.Controllers
 {
     public class HomeController : Controller
     {
         private readonly ILogger<HomeController> _logger;
+        private readonly SessionService _service;
 
-        public HomeController(ILogger<HomeController> logger)
+        public HomeController(
+            SessionService service,
+            ILogger<HomeController> logger)
         {
             _logger = logger;
+            _service = service;
         }
 
         public IActionResult Index()
@@ -22,33 +27,17 @@ namespace ContosoConfApp.Controllers
         {
             return View();
         }
+
         public IActionResult Sessions()
         {
-            return View();
+            var viewModel = _service.GetSessions();
+            return View(viewModel);
         }
-        public IActionResult MichaelGonzalez()
+
+        public IActionResult SessionDetails(int id)
         {
-            return View();
-        }
-        public IActionResult JordanWaite()
-        {
-            return View();
-        }
-        public IActionResult StevenHa()
-        {
-            return View();
-        }
-        public IActionResult TrevonNoble()
-        {
-            return View();
-        }
-        public IActionResult RabinGhaju()
-        {
-            return View();
-        }
-        public IActionResult ClayLeimgruber()
-        {
-            return View();
+            var viewModel = _service.GetSessionDetails(id);
+            return View(viewModel);
         }
         
         

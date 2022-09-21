@@ -1,3 +1,5 @@
+using ContosoConfApp.Services;
+
 namespace ContosoConfApp
 {
     public class Program
@@ -8,6 +10,12 @@ namespace ContosoConfApp
 
             // Add services to the container.
             builder.Services.AddControllersWithViews();
+            builder.Services.AddSingleton<SessionService>(a => 
+            {
+                var service = new SessionService();
+                service.Initialize();
+                return service;
+            });
 
             var app = builder.Build();
 

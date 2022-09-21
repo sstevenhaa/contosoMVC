@@ -1,10 +1,13 @@
-﻿@{
+﻿
+@model List<Session>
+
+@{
+    
     ViewData["Title"] = "Sessions";
 }
 <h1>@ViewData["Title"]</h1>
 
 <p>Below is a list of sessions.</p>
-
 <table id="userdata" class="table table-danger table-border border border-success">
     <tr>
     <th>Speaker</th>
@@ -13,4 +16,13 @@
     <th>Seats Remaining</th>
     <th>Details</th>    
     </tr>
+    @foreach (var session in Model)
+    {
+        <tr>
+            <!-- <td>session.Speaker</td>
+            <td>session.Subject</td>
+            <td>session.Date</td>
+            <td>session.Seats</td> -->
+        </tr>
+    }
 </table>
