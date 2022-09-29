@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Visual Studio\\ContosoConfApp\\ContosoConfApp.csproj": {}
+    "C:\\Users\\shado\\Desktop\\Desktop\\contoso\\contosoMVC\\ContosoConfApp.csproj": {}
   },
   "projects": {
-    "C:\\Visual Studio\\ContosoConfApp\\ContosoConfApp.csproj": {
+    "C:\\Users\\shado\\Desktop\\Desktop\\contoso\\contosoMVC\\ContosoConfApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Visual Studio\\ContosoConfApp\\ContosoConfApp.csproj",
+        "projectUniqueName": "C:\\Users\\shado\\Desktop\\Desktop\\contoso\\contosoMVC\\ContosoConfApp.csproj",
         "projectName": "ContosoConfApp",
-        "projectPath": "C:\\Visual Studio\\ContosoConfApp\\ContosoConfApp.csproj",
-        "packagesPath": "C:\\Users\\micha\\.nuget\\packages\\",
-        "outputPath": "C:\\Visual Studio\\ContosoConfApp\\obj\\",
+        "projectPath": "C:\\Users\\shado\\Desktop\\Desktop\\contoso\\contosoMVC\\ContosoConfApp.csproj",
+        "packagesPath": "C:\\Users\\shado\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\shado\\Desktop\\Desktop\\contoso\\contosoMVC\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\micha\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\shado\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -62,7 +62,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }
